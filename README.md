@@ -5,7 +5,7 @@ This is the React client that uses the Java server in this GitHub Organization.
 To start the app:
 
 - Open the sample in Visual Studio
-- `npm install' then `npm start` in the Terminal
+- `npm install` then `npm start` in the Terminal
 
 ## **Running App**
 Your running application should look like this:
