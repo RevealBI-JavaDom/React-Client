@@ -10,4 +10,5 @@ To start the app:
 ## **Running App**
 Your running application should look like this:
 
-const IMAGE_URL = 'https://acmeanalyticsserver.azurewebsites.net/images/png/';
+![image](https://github.com/user-attachments/assets/edf1d3fd-5b44-4d7d-818b-59c20bd55b02)
+
